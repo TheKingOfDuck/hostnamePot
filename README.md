@@ -5,5 +5,4 @@
 # How
 服务端要求浏览器走NTLM认证时浏览器携带的认证信息中即包含了机器的hostname字段。
 
-
-
+![](https://github.com/TheKingOfDuck/hostnamePot/blob/main/images/hostnamePot.jpg)
