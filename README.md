@@ -5,4 +5,12 @@
 # How
 服务端要求浏览器走NTLM认证时浏览器携带的认证信息中即包含了机器的hostname字段。
 
+# Run
+
+release: [hostnamePot.jar](https://github.com/TheKingOfDuck/hostnamePot/releases/download/demo/hostnamePot.jar)
+
+```
+java -jar hostnamePot.jar --server.port=18848 #不加参数默认端口端口为80
+```
+
 ![](https://github.com/TheKingOfDuck/hostnamePot/blob/main/images/hostnamePot.jpg)
